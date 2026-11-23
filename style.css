@@ -1,1 +1,14 @@
 
+/* Écrivez vos règles css ici. */
+h1{
+    color : red ;
+    text-align : right ;
+}
+h2{
+    color : blue ;
+    text-align : center ;
+}
+
+p{
+    color :green;
+}
